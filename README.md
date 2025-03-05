@@ -1,2 +1,2 @@
 # anshula.T
-author - Anshula
+author - Anshula Thakur
